@@ -1,0 +1,14 @@
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\bin\Debug\net8.0\TrainingApp.exe
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\bin\Debug\net8.0\TrainingApp.deps.json
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\bin\Debug\net8.0\TrainingApp.runtimeconfig.json
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\bin\Debug\net8.0\TrainingApp.dll
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\bin\Debug\net8.0\TrainingApp.pdb
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\obj\Debug\net8.0\TrainingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\obj\Debug\net8.0\TrainingApp.AssemblyInfoInputs.cache
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\obj\Debug\net8.0\TrainingApp.AssemblyInfo.cs
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\obj\Debug\net8.0\TrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\obj\Debug\net8.0\TrainingApp.dll
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\obj\Debug\net8.0\refint\TrainingApp.dll
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\obj\Debug\net8.0\TrainingApp.pdb
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\obj\Debug\net8.0\TrainingApp.genruntimeconfig.cache
+C:\Users\Rahma\source\repos\TrainingApp\TrainingApp\obj\Debug\net8.0\ref\TrainingApp.dll
